@@ -57,7 +57,7 @@ Create a Pull Request
 
 ## Project 3: Iris Classification
 
-Project Name: Iris Classification
+Project Name: Iris Predection
 
 Project Description:
 Develop a machine learning model for classifying iris flowers based on their features using Python, scikit-learn, and TensorFlow. This project aims to accurately classify iris flowers into different species based on their physical attributes.
